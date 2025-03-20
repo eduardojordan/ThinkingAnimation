@@ -5,8 +5,8 @@ ThinkingAnimation is a simple practice project built with SwiftUI to explore the
 <h1 style="font-size: 40px;">📸 Screenshots</h1>
 
 <p align="center">
-  <img src="https://github.com/your-username/ThinkingAnimation/blob/master/animate1.gif?raw=true" width="200" hspace="10"/>
-  <img src="https://github.com/your-username/ThinkingAnimation/blob/master/animate2.gif?raw=true" width="200" hspace="10"/>
+  <img src="https://github.com/eduardojordan/ThinkingAnimation/blob/master/animate1.gif?raw=true" width="200" hspace="10"/>
+  <img src="https://github.com/eduardojordan/ThinkingAnimation/blob/master/animate2.gif?raw=true" width="200" hspace="10"/>
 </p>
 
 <h2 style="font-size: 35px;">🚀 Features</h2>
